@@ -16,6 +16,7 @@ public class Robot extends IterativeRobot {
      * used for any initialization code.
      */
 	String string = "String";
+	//good to know.
 	
     public void robotInit() {
 
